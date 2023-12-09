@@ -1,0 +1,7 @@
+.vscode
+terraform.tfvars
+.terraform*
+terraform.tfstate*
+node_modules
+package-lock.json
+proxy-urls.json
